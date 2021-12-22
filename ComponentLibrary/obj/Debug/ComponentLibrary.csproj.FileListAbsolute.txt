@@ -1,0 +1,27 @@
+G:\FifteenGame\ComponentLibrary\bin\Debug\ComponentLibrary.dll
+G:\FifteenGame\ComponentLibrary\bin\Debug\ComponentLibrary.pdb
+G:\FifteenGame\ComponentLibrary\obj\Debug\ComponentLibrary.GameTimer.resources
+G:\FifteenGame\ComponentLibrary\obj\Debug\ComponentLibrary.csproj.GenerateResource.cache
+G:\FifteenGame\ComponentLibrary\obj\Debug\ComponentLibrary.csproj.CoreCompileInputs.cache
+G:\FifteenGame\ComponentLibrary\obj\Debug\ComponentLibrary.dll
+G:\FifteenGame\ComponentLibrary\obj\Debug\ComponentLibrary.pdb
+G:\FifteenGame\ComponentLibrary\obj\Debug\ComponentLibrary.csprojAssemblyReference.cache
+G:\FifteenGame\ComponentLibrary\obj\Debug\ComponentLibrary.NewButton.resources
+E:\ПИС\FifteenGame\ComponentLibrary\bin\Debug\ComponentLibrary.dll
+E:\ПИС\FifteenGame\ComponentLibrary\bin\Debug\ComponentLibrary.pdb
+E:\ПИС\FifteenGame\ComponentLibrary\obj\Debug\ComponentLibrary.csprojAssemblyReference.cache
+E:\ПИС\FifteenGame\ComponentLibrary\obj\Debug\ComponentLibrary.NewButton.resources
+E:\ПИС\FifteenGame\ComponentLibrary\obj\Debug\ComponentLibrary.GameTimer.resources
+E:\ПИС\FifteenGame\ComponentLibrary\obj\Debug\ComponentLibrary.csproj.GenerateResource.cache
+E:\ПИС\FifteenGame\ComponentLibrary\obj\Debug\ComponentLibrary.csproj.CoreCompileInputs.cache
+E:\ПИС\FifteenGame\ComponentLibrary\obj\Debug\ComponentLibrary.dll
+E:\ПИС\FifteenGame\ComponentLibrary\obj\Debug\ComponentLibrary.pdb
+G:\2 курс\ПИС\FifteenGame\ComponentLibrary\bin\Debug\ComponentLibrary.dll
+G:\2 курс\ПИС\FifteenGame\ComponentLibrary\bin\Debug\ComponentLibrary.pdb
+G:\2 курс\ПИС\FifteenGame\ComponentLibrary\obj\Debug\ComponentLibrary.csproj.AssemblyReference.cache
+G:\2 курс\ПИС\FifteenGame\ComponentLibrary\obj\Debug\ComponentLibrary.NewButton.resources
+G:\2 курс\ПИС\FifteenGame\ComponentLibrary\obj\Debug\ComponentLibrary.GameTimer.resources
+G:\2 курс\ПИС\FifteenGame\ComponentLibrary\obj\Debug\ComponentLibrary.csproj.GenerateResource.cache
+G:\2 курс\ПИС\FifteenGame\ComponentLibrary\obj\Debug\ComponentLibrary.csproj.CoreCompileInputs.cache
+G:\2 курс\ПИС\FifteenGame\ComponentLibrary\obj\Debug\ComponentLibrary.dll
+G:\2 курс\ПИС\FifteenGame\ComponentLibrary\obj\Debug\ComponentLibrary.pdb
