@@ -1,0 +1,39 @@
+G:\FifteenGame\FifteenGUI\bin\Debug\FifteenGUI.exe.config
+G:\FifteenGame\FifteenGUI\bin\Debug\FifteenGUI.exe
+G:\FifteenGame\FifteenGUI\bin\Debug\FifteenGUI.pdb
+G:\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.csprojAssemblyReference.cache
+G:\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.Fifteen.resources
+G:\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.Properties.Resources.resources
+G:\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.csproj.GenerateResource.cache
+G:\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.csproj.CoreCompileInputs.cache
+G:\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.exe
+G:\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.pdb
+G:\FifteenGame\FifteenGUI\bin\Debug\ComponentLibrary.dll
+G:\FifteenGame\FifteenGUI\bin\Debug\ComponentLibrary.pdb
+G:\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.csproj.CopyComplete
+E:\ПИС\FifteenGame\FifteenGUI\bin\Debug\FifteenGUI.exe.config
+E:\ПИС\FifteenGame\FifteenGUI\bin\Debug\FifteenGUI.exe
+E:\ПИС\FifteenGame\FifteenGUI\bin\Debug\FifteenGUI.pdb
+E:\ПИС\FifteenGame\FifteenGUI\bin\Debug\ComponentLibrary.dll
+E:\ПИС\FifteenGame\FifteenGUI\bin\Debug\ComponentLibrary.pdb
+E:\ПИС\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.csprojAssemblyReference.cache
+E:\ПИС\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.Fifteen.resources
+E:\ПИС\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.Properties.Resources.resources
+E:\ПИС\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.csproj.GenerateResource.cache
+E:\ПИС\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.csproj.CoreCompileInputs.cache
+E:\ПИС\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.csproj.CopyComplete
+E:\ПИС\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.exe
+E:\ПИС\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.pdb
+G:\2 курс\ПИС\FifteenGame\FifteenGUI\bin\Debug\FifteenGUI.exe.config
+G:\2 курс\ПИС\FifteenGame\FifteenGUI\bin\Debug\FifteenGUI.exe
+G:\2 курс\ПИС\FifteenGame\FifteenGUI\bin\Debug\FifteenGUI.pdb
+G:\2 курс\ПИС\FifteenGame\FifteenGUI\bin\Debug\ComponentLibrary.dll
+G:\2 курс\ПИС\FifteenGame\FifteenGUI\bin\Debug\ComponentLibrary.pdb
+G:\2 курс\ПИС\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.csproj.AssemblyReference.cache
+G:\2 курс\ПИС\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.Fifteen.resources
+G:\2 курс\ПИС\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.Properties.Resources.resources
+G:\2 курс\ПИС\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.csproj.GenerateResource.cache
+G:\2 курс\ПИС\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.csproj.CoreCompileInputs.cache
+G:\2 курс\ПИС\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.csproj.CopyComplete
+G:\2 курс\ПИС\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.exe
+G:\2 курс\ПИС\FifteenGame\FifteenGUI\obj\Debug\FifteenGUI.pdb
